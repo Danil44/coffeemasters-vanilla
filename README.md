@@ -1,6 +1,6 @@
 This repo is a companion to the [You Don't Need That Library][course] course on Frontend Masters.
 
-[![Frontend Masters](images/FrontendMastersLogo.png)][fem]
+[![Frontend Masters](src/images/FrontendMastersLogo.png)][fem]
 
 [Please click here][website] to head to the course website.
 
